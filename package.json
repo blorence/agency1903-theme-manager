@@ -1,7 +1,7 @@
 {
-  "name": "shopify-app-node",
+  "name": "agency1903-theme-manager",
   "version": "1.0.0",
-  "description": "Shopify's node app for CLI tool",
+  "description": "Theme Manager Start (shopify CLI)",
   "scripts": {
     "test": "jest",
     "dev": "cross-env NODE_ENV=development nodemon ./server/index.js --watch ./server/index.js",
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shopify/shopify-app-node.git"
+    "url": "git+https://github.com/blorence/agency1903-theme-manager.git"
   },
-  "author": "Shopify Inc.",
+  "author": "Agency 1903",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shopify/shopify-app-node/issues"
+    "url": "https://github.com/blorence/agency1903-theme-manager/issues"
   },
   "dependencies": {
     "@babel/core": "7.12.10",
@@ -37,9 +37,9 @@
     "next": "^10.0.4",
     "next-env": "^1.1.0",
     "node-fetch": "^2.6.1",
-    "react": "^16.10.1",
+    "react": "^16.14.0",
     "react-apollo": "^3.1.3",
-    "react-dom": "^16.10.1",
+    "react-dom": "^16.14.0",
     "webpack": "^4.44.1"
   },
   "devDependencies": {
