@@ -1,4 +1,4 @@
-# Shopify App Node
+# 1903 Theme Manager
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
 
